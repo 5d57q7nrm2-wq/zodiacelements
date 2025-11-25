@@ -53,6 +53,9 @@ Maps the four classical elements (Fire, Earth, Air, Water) to:
 | Uranus | Aquarius | Uranium (U), Neon (Ne) |
 | Neptune | Pisces | Neptunium (Np), Platinum (Pt) |
 | Pluto | Scorpio | Plutonium (Pu), Arsenic (As) |
+| Gaia* | Taurus, Virgo, Capricorn | Antimony (Sb), Tellurium (Te) |
+
+*Gaia represents terrestrial/earthy qualities rather than a celestial body
 
 ## Usage
 
@@ -69,7 +72,11 @@ const marsElements = data.elements.filter(e => e.planetary_connection === "Mars"
 
 ## Notes
 
-- Resonant frequencies are based on atomic spectroscopic emission lines
+- Resonant frequencies represent characteristic atomic spectral line frequencies:
+  - Hydrogen's frequency (1420405751.768 Hz) is the famous 21-cm hyperfine transition used in radio astronomy
+  - Other elements use prominent visible or UV emission line frequencies
+  - Elements have multiple spectral lines; the listed frequency represents a characteristic transition
 - Planetary correspondences draw from traditional Western alchemy and Hermetic philosophy
 - Modern outer planets (Uranus, Neptune, Pluto) have been incorporated into the traditional system
+- "Gaia" represents terrestrial/earthy qualities distinct from celestial planetary bodies
 - Some elements have multiple possible correspondences; the primary association is listed

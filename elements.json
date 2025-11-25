@@ -4,9 +4,10 @@
     "description": "A comprehensive dataset mapping chemical elements to their resonant frequencies and traditional astrological/alchemical planetary correspondences",
     "version": "1.0.0",
     "notes": {
-      "resonant_frequency": "Primary atomic resonant frequency in Hz, derived from atomic spectroscopic data",
+      "resonant_frequency": "Primary atomic spectral line frequency in Hz. For hydrogen (1420405751.768 Hz), this represents the famous 21-cm hyperfine transition. For other elements, frequencies are derived from prominent emission lines. Note that elements have multiple spectral lines; the listed frequency represents a characteristic transition.",
       "planetary_connection": "Based on traditional alchemy, Hermetic philosophy, and astrological correspondences",
-      "zodiac_sign": "Associated zodiac sign based on elemental and planetary rulership"
+      "zodiac_sign": "Associated zodiac sign based on elemental and planetary rulership",
+      "gaia_note": "Gaia represents terrestrial/earthy qualities in alchemy, distinct from celestial planetary bodies"
     }
   },
   "elements": [
@@ -566,7 +567,7 @@
       "name": "Antimony",
       "atomic_mass": 121.76,
       "resonant_frequency_hz": 206800000,
-      "planetary_connection": "Earth",
+      "planetary_connection": "Gaia",
       "zodiac_sign": "Virgo",
       "element_type": "Metalloid",
       "alchemical_association": "Wolf Metal"
@@ -577,7 +578,7 @@
       "name": "Tellurium",
       "atomic_mass": 127.60,
       "resonant_frequency_hz": 214300000,
-      "planetary_connection": "Earth",
+      "planetary_connection": "Gaia",
       "zodiac_sign": "Taurus",
       "element_type": "Metalloid",
       "alchemical_association": "Earth Element"
@@ -1360,9 +1361,9 @@
       "characteristics": "Transformation, death/rebirth, power",
       "elements": ["As", "Tc", "Pm", "Ta", "Po", "At", "Rn", "Ac", "Pu", "Cm", "Mt", "Mc"]
     },
-    "Earth": {
+    "Gaia": {
       "zodiac_signs": ["Taurus", "Virgo", "Capricorn"],
-      "characteristics": "Grounding, materiality, physical form",
+      "characteristics": "Grounding, materiality, physical form (terrestrial/earthy qualities, not the planet)",
       "elements": ["Sb", "Te"]
     }
   },
