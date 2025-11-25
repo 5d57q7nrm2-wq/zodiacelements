@@ -1,0 +1,1392 @@
+{
+  "metadata": {
+    "title": "Periodic Table of Elements with Resonant Frequencies and Planetary Connections",
+    "description": "A comprehensive dataset mapping chemical elements to their resonant frequencies and traditional astrological/alchemical planetary correspondences",
+    "version": "1.0.0",
+    "notes": {
+      "resonant_frequency": "Primary atomic spectral line frequency in Hz. For hydrogen (1420405751.768 Hz), this represents the famous 21-cm hyperfine transition. For other elements, frequencies are derived from prominent emission lines. Note that elements have multiple spectral lines; the listed frequency represents a characteristic transition.",
+      "planetary_connection": "Based on traditional alchemy, Hermetic philosophy, and astrological correspondences",
+      "zodiac_sign": "Associated zodiac sign based on elemental and planetary rulership",
+      "gaia_note": "Gaia represents terrestrial/earthy qualities in alchemy, distinct from celestial planetary bodies"
+    }
+  },
+  "elements": [
+    {
+      "atomic_number": 1,
+      "symbol": "H",
+      "name": "Hydrogen",
+      "atomic_mass": 1.008,
+      "resonant_frequency_hz": 1420405751.768,
+      "planetary_connection": "Sun",
+      "zodiac_sign": "Leo",
+      "element_type": "Nonmetal",
+      "alchemical_association": "Prima Materia"
+    },
+    {
+      "atomic_number": 2,
+      "symbol": "He",
+      "name": "Helium",
+      "atomic_mass": 4.003,
+      "resonant_frequency_hz": 1083000000,
+      "planetary_connection": "Sun",
+      "zodiac_sign": "Leo",
+      "element_type": "Noble Gas",
+      "alchemical_association": "Solar Essence"
+    },
+    {
+      "atomic_number": 3,
+      "symbol": "Li",
+      "name": "Lithium",
+      "atomic_mass": 6.941,
+      "resonant_frequency_hz": 670776000,
+      "planetary_connection": "Moon",
+      "zodiac_sign": "Cancer",
+      "element_type": "Alkali Metal",
+      "alchemical_association": "Lunar Salt"
+    },
+    {
+      "atomic_number": 4,
+      "symbol": "Be",
+      "name": "Beryllium",
+      "atomic_mass": 9.012,
+      "resonant_frequency_hz": 957000000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Gemini",
+      "element_type": "Alkaline Earth Metal",
+      "alchemical_association": "Mercurial Earth"
+    },
+    {
+      "atomic_number": 5,
+      "symbol": "B",
+      "name": "Boron",
+      "atomic_mass": 10.81,
+      "resonant_frequency_hz": 882000000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Metalloid",
+      "alchemical_association": "Saturnine Crystal"
+    },
+    {
+      "atomic_number": 6,
+      "symbol": "C",
+      "name": "Carbon",
+      "atomic_mass": 12.01,
+      "resonant_frequency_hz": 492160000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Nonmetal",
+      "alchemical_association": "Black Earth"
+    },
+    {
+      "atomic_number": 7,
+      "symbol": "N",
+      "name": "Nitrogen",
+      "atomic_mass": 14.01,
+      "resonant_frequency_hz": 1199000000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Nonmetal",
+      "alchemical_association": "Sky Breath"
+    },
+    {
+      "atomic_number": 8,
+      "symbol": "O",
+      "name": "Oxygen",
+      "atomic_mass": 16.00,
+      "resonant_frequency_hz": 1327000000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Nonmetal",
+      "alchemical_association": "Fire Breath"
+    },
+    {
+      "atomic_number": 9,
+      "symbol": "F",
+      "name": "Fluorine",
+      "atomic_mass": 19.00,
+      "resonant_frequency_hz": 685600000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Halogen",
+      "alchemical_association": "Corrosive Fire"
+    },
+    {
+      "atomic_number": 10,
+      "symbol": "Ne",
+      "name": "Neon",
+      "atomic_mass": 20.18,
+      "resonant_frequency_hz": 640200000,
+      "planetary_connection": "Uranus",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Noble Gas",
+      "alchemical_association": "Electric Light"
+    },
+    {
+      "atomic_number": 11,
+      "symbol": "Na",
+      "name": "Sodium",
+      "atomic_mass": 22.99,
+      "resonant_frequency_hz": 589000000,
+      "planetary_connection": "Moon",
+      "zodiac_sign": "Cancer",
+      "element_type": "Alkali Metal",
+      "alchemical_association": "Sea Salt"
+    },
+    {
+      "atomic_number": 12,
+      "symbol": "Mg",
+      "name": "Magnesium",
+      "atomic_mass": 24.31,
+      "resonant_frequency_hz": 518400000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Taurus",
+      "element_type": "Alkaline Earth Metal",
+      "alchemical_association": "White Fire"
+    },
+    {
+      "atomic_number": 13,
+      "symbol": "Al",
+      "name": "Aluminum",
+      "atomic_mass": 26.98,
+      "resonant_frequency_hz": 394400000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Virgo",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Swift Metal"
+    },
+    {
+      "atomic_number": 14,
+      "symbol": "Si",
+      "name": "Silicon",
+      "atomic_mass": 28.09,
+      "resonant_frequency_hz": 288000000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Metalloid",
+      "alchemical_association": "Earth Crystal"
+    },
+    {
+      "atomic_number": 15,
+      "symbol": "P",
+      "name": "Phosphorus",
+      "atomic_mass": 30.97,
+      "resonant_frequency_hz": 253600000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Libra",
+      "element_type": "Nonmetal",
+      "alchemical_association": "Light Bearer"
+    },
+    {
+      "atomic_number": 16,
+      "symbol": "S",
+      "name": "Sulfur",
+      "atomic_mass": 32.07,
+      "resonant_frequency_hz": 469700000,
+      "planetary_connection": "Sun",
+      "zodiac_sign": "Leo",
+      "element_type": "Nonmetal",
+      "alchemical_association": "Brimstone"
+    },
+    {
+      "atomic_number": 17,
+      "symbol": "Cl",
+      "name": "Chlorine",
+      "atomic_mass": 35.45,
+      "resonant_frequency_hz": 452100000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Halogen",
+      "alchemical_association": "Green Fire"
+    },
+    {
+      "atomic_number": 18,
+      "symbol": "Ar",
+      "name": "Argon",
+      "atomic_mass": 39.95,
+      "resonant_frequency_hz": 811500000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Noble Gas",
+      "alchemical_association": "Idle Spirit"
+    },
+    {
+      "atomic_number": 19,
+      "symbol": "K",
+      "name": "Potassium",
+      "atomic_mass": 39.10,
+      "resonant_frequency_hz": 766500000,
+      "planetary_connection": "Moon",
+      "zodiac_sign": "Cancer",
+      "element_type": "Alkali Metal",
+      "alchemical_association": "Plant Salt"
+    },
+    {
+      "atomic_number": 20,
+      "symbol": "Ca",
+      "name": "Calcium",
+      "atomic_mass": 40.08,
+      "resonant_frequency_hz": 422700000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Alkaline Earth Metal",
+      "alchemical_association": "Bone Earth"
+    },
+    {
+      "atomic_number": 21,
+      "symbol": "Sc",
+      "name": "Scandium",
+      "atomic_mass": 44.96,
+      "resonant_frequency_hz": 391200000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Northern Light"
+    },
+    {
+      "atomic_number": 22,
+      "symbol": "Ti",
+      "name": "Titanium",
+      "atomic_mass": 47.87,
+      "resonant_frequency_hz": 498200000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Divine Metal"
+    },
+    {
+      "atomic_number": 23,
+      "symbol": "V",
+      "name": "Vanadium",
+      "atomic_mass": 50.94,
+      "resonant_frequency_hz": 437900000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Taurus",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Goddess Metal"
+    },
+    {
+      "atomic_number": 24,
+      "symbol": "Cr",
+      "name": "Chromium",
+      "atomic_mass": 52.00,
+      "resonant_frequency_hz": 520400000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Color Metal"
+    },
+    {
+      "atomic_number": 25,
+      "symbol": "Mn",
+      "name": "Manganese",
+      "atomic_mass": 54.94,
+      "resonant_frequency_hz": 403100000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Magnet Stone"
+    },
+    {
+      "atomic_number": 26,
+      "symbol": "Fe",
+      "name": "Iron",
+      "atomic_mass": 55.85,
+      "resonant_frequency_hz": 385900000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Mars Metal"
+    },
+    {
+      "atomic_number": 27,
+      "symbol": "Co",
+      "name": "Cobalt",
+      "atomic_mass": 58.93,
+      "resonant_frequency_hz": 345400000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Libra",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Goblin Metal"
+    },
+    {
+      "atomic_number": 28,
+      "symbol": "Ni",
+      "name": "Nickel",
+      "atomic_mass": 58.69,
+      "resonant_frequency_hz": 341500000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Taurus",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Devil Copper"
+    },
+    {
+      "atomic_number": 29,
+      "symbol": "Cu",
+      "name": "Copper",
+      "atomic_mass": 63.55,
+      "resonant_frequency_hz": 324800000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Libra",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Venus Metal"
+    },
+    {
+      "atomic_number": 30,
+      "symbol": "Zn",
+      "name": "Zinc",
+      "atomic_mass": 65.38,
+      "resonant_frequency_hz": 213900000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Gemini",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Philosopher's Wool"
+    },
+    {
+      "atomic_number": 31,
+      "symbol": "Ga",
+      "name": "Gallium",
+      "atomic_mass": 69.72,
+      "resonant_frequency_hz": 417200000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Virgo",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Gaul Metal"
+    },
+    {
+      "atomic_number": 32,
+      "symbol": "Ge",
+      "name": "Germanium",
+      "atomic_mass": 72.63,
+      "resonant_frequency_hz": 265200000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Metalloid",
+      "alchemical_association": "German Silver"
+    },
+    {
+      "atomic_number": 33,
+      "symbol": "As",
+      "name": "Arsenic",
+      "atomic_mass": 74.92,
+      "resonant_frequency_hz": 278800000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Metalloid",
+      "alchemical_association": "King of Poisons"
+    },
+    {
+      "atomic_number": 34,
+      "symbol": "Se",
+      "name": "Selenium",
+      "atomic_mass": 78.97,
+      "resonant_frequency_hz": 196000000,
+      "planetary_connection": "Moon",
+      "zodiac_sign": "Cancer",
+      "element_type": "Nonmetal",
+      "alchemical_association": "Moon Stone"
+    },
+    {
+      "atomic_number": 35,
+      "symbol": "Br",
+      "name": "Bromine",
+      "atomic_mass": 79.90,
+      "resonant_frequency_hz": 470800000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Halogen",
+      "alchemical_association": "Stench Spirit"
+    },
+    {
+      "atomic_number": 36,
+      "symbol": "Kr",
+      "name": "Krypton",
+      "atomic_mass": 83.80,
+      "resonant_frequency_hz": 557000000,
+      "planetary_connection": "Uranus",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Noble Gas",
+      "alchemical_association": "Hidden Light"
+    },
+    {
+      "atomic_number": 37,
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "atomic_mass": 85.47,
+      "resonant_frequency_hz": 794800000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Alkali Metal",
+      "alchemical_association": "Red Spirit"
+    },
+    {
+      "atomic_number": 38,
+      "symbol": "Sr",
+      "name": "Strontium",
+      "atomic_mass": 87.62,
+      "resonant_frequency_hz": 460700000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Alkaline Earth Metal",
+      "alchemical_association": "Heavy Earth"
+    },
+    {
+      "atomic_number": 39,
+      "symbol": "Y",
+      "name": "Yttrium",
+      "atomic_mass": 88.91,
+      "resonant_frequency_hz": 410200000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Pisces",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Swedish Earth"
+    },
+    {
+      "atomic_number": 40,
+      "symbol": "Zr",
+      "name": "Zirconium",
+      "atomic_mass": 91.22,
+      "resonant_frequency_hz": 360100000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Golden Stone"
+    },
+    {
+      "atomic_number": 41,
+      "symbol": "Nb",
+      "name": "Niobium",
+      "atomic_mass": 92.91,
+      "resonant_frequency_hz": 405500000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Daughter Metal"
+    },
+    {
+      "atomic_number": 42,
+      "symbol": "Mo",
+      "name": "Molybdenum",
+      "atomic_mass": 95.95,
+      "resonant_frequency_hz": 386400000,
+      "planetary_connection": "Moon",
+      "zodiac_sign": "Cancer",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Lead-like"
+    },
+    {
+      "atomic_number": 43,
+      "symbol": "Tc",
+      "name": "Technetium",
+      "atomic_mass": 98,
+      "resonant_frequency_hz": 423700000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Artificial Element"
+    },
+    {
+      "atomic_number": 44,
+      "symbol": "Ru",
+      "name": "Ruthenium",
+      "atomic_mass": 101.07,
+      "resonant_frequency_hz": 372700000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Russian Metal"
+    },
+    {
+      "atomic_number": 45,
+      "symbol": "Rh",
+      "name": "Rhodium",
+      "atomic_mass": 102.91,
+      "resonant_frequency_hz": 369200000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Taurus",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Rose Metal"
+    },
+    {
+      "atomic_number": 46,
+      "symbol": "Pd",
+      "name": "Palladium",
+      "atomic_mass": 106.42,
+      "resonant_frequency_hz": 340500000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Gemini",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Pallas Metal"
+    },
+    {
+      "atomic_number": 47,
+      "symbol": "Ag",
+      "name": "Silver",
+      "atomic_mass": 107.87,
+      "resonant_frequency_hz": 328100000,
+      "planetary_connection": "Moon",
+      "zodiac_sign": "Cancer",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Luna"
+    },
+    {
+      "atomic_number": 48,
+      "symbol": "Cd",
+      "name": "Cadmium",
+      "atomic_mass": 112.41,
+      "resonant_frequency_hz": 228800000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Virgo",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Zinc Flower"
+    },
+    {
+      "atomic_number": 49,
+      "symbol": "In",
+      "name": "Indium",
+      "atomic_mass": 114.82,
+      "resonant_frequency_hz": 410200000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Indigo Metal"
+    },
+    {
+      "atomic_number": 50,
+      "symbol": "Sn",
+      "name": "Tin",
+      "atomic_mass": 118.71,
+      "resonant_frequency_hz": 286400000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Pisces",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Jupiter Metal"
+    },
+    {
+      "atomic_number": 51,
+      "symbol": "Sb",
+      "name": "Antimony",
+      "atomic_mass": 121.76,
+      "resonant_frequency_hz": 206800000,
+      "planetary_connection": "Gaia",
+      "zodiac_sign": "Virgo",
+      "element_type": "Metalloid",
+      "alchemical_association": "Wolf Metal"
+    },
+    {
+      "atomic_number": 52,
+      "symbol": "Te",
+      "name": "Tellurium",
+      "atomic_mass": 127.60,
+      "resonant_frequency_hz": 214300000,
+      "planetary_connection": "Gaia",
+      "zodiac_sign": "Taurus",
+      "element_type": "Metalloid",
+      "alchemical_association": "Earth Element"
+    },
+    {
+      "atomic_number": 53,
+      "symbol": "I",
+      "name": "Iodine",
+      "atomic_mass": 126.90,
+      "resonant_frequency_hz": 183900000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Halogen",
+      "alchemical_association": "Violet Spirit"
+    },
+    {
+      "atomic_number": 54,
+      "symbol": "Xe",
+      "name": "Xenon",
+      "atomic_mass": 131.29,
+      "resonant_frequency_hz": 462000000,
+      "planetary_connection": "Uranus",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Noble Gas",
+      "alchemical_association": "Stranger Gas"
+    },
+    {
+      "atomic_number": 55,
+      "symbol": "Cs",
+      "name": "Cesium",
+      "atomic_mass": 132.91,
+      "resonant_frequency_hz": 9192631770,
+      "planetary_connection": "Sun",
+      "zodiac_sign": "Leo",
+      "element_type": "Alkali Metal",
+      "alchemical_association": "Sky Blue"
+    },
+    {
+      "atomic_number": 56,
+      "symbol": "Ba",
+      "name": "Barium",
+      "atomic_mass": 137.33,
+      "resonant_frequency_hz": 553500000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Alkaline Earth Metal",
+      "alchemical_association": "Heavy Stone"
+    },
+    {
+      "atomic_number": 57,
+      "symbol": "La",
+      "name": "Lanthanum",
+      "atomic_mass": 138.91,
+      "resonant_frequency_hz": 357400000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Hidden Element"
+    },
+    {
+      "atomic_number": 58,
+      "symbol": "Ce",
+      "name": "Cerium",
+      "atomic_mass": 140.12,
+      "resonant_frequency_hz": 418700000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Ceres Metal"
+    },
+    {
+      "atomic_number": 59,
+      "symbol": "Pr",
+      "name": "Praseodymium",
+      "atomic_mass": 140.91,
+      "resonant_frequency_hz": 495100000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Taurus",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Green Twin"
+    },
+    {
+      "atomic_number": 60,
+      "symbol": "Nd",
+      "name": "Neodymium",
+      "atomic_mass": 144.24,
+      "resonant_frequency_hz": 492800000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Libra",
+      "element_type": "Lanthanide",
+      "alchemical_association": "New Twin"
+    },
+    {
+      "atomic_number": 61,
+      "symbol": "Pm",
+      "name": "Promethium",
+      "atomic_mass": 145,
+      "resonant_frequency_hz": 443000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Fire Bringer"
+    },
+    {
+      "atomic_number": 62,
+      "symbol": "Sm",
+      "name": "Samarium",
+      "atomic_mass": 150.36,
+      "resonant_frequency_hz": 476700000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Samarskite"
+    },
+    {
+      "atomic_number": 63,
+      "symbol": "Eu",
+      "name": "Europium",
+      "atomic_mass": 151.96,
+      "resonant_frequency_hz": 601400000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Europe Metal"
+    },
+    {
+      "atomic_number": 64,
+      "symbol": "Gd",
+      "name": "Gadolinium",
+      "atomic_mass": 157.25,
+      "resonant_frequency_hz": 422700000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Gadolin Metal"
+    },
+    {
+      "atomic_number": 65,
+      "symbol": "Tb",
+      "name": "Terbium",
+      "atomic_mass": 158.93,
+      "resonant_frequency_hz": 432000000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Pisces",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Ytterby Metal"
+    },
+    {
+      "atomic_number": 66,
+      "symbol": "Dy",
+      "name": "Dysprosium",
+      "atomic_mass": 162.50,
+      "resonant_frequency_hz": 418700000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Virgo",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Hard to Get"
+    },
+    {
+      "atomic_number": 67,
+      "symbol": "Ho",
+      "name": "Holmium",
+      "atomic_mass": 164.93,
+      "resonant_frequency_hz": 410900000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Gemini",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Stockholm Metal"
+    },
+    {
+      "atomic_number": 68,
+      "symbol": "Er",
+      "name": "Erbium",
+      "atomic_mass": 167.26,
+      "resonant_frequency_hz": 400800000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Libra",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Ytterby Earth"
+    },
+    {
+      "atomic_number": 69,
+      "symbol": "Tm",
+      "name": "Thulium",
+      "atomic_mass": 168.93,
+      "resonant_frequency_hz": 379600000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Thule Metal"
+    },
+    {
+      "atomic_number": 70,
+      "symbol": "Yb",
+      "name": "Ytterbium",
+      "atomic_mass": 173.05,
+      "resonant_frequency_hz": 518000000,
+      "planetary_connection": "Moon",
+      "zodiac_sign": "Cancer",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Ytterby Village"
+    },
+    {
+      "atomic_number": 71,
+      "symbol": "Lu",
+      "name": "Lutetium",
+      "atomic_mass": 174.97,
+      "resonant_frequency_hz": 451000000,
+      "planetary_connection": "Moon",
+      "zodiac_sign": "Cancer",
+      "element_type": "Lanthanide",
+      "alchemical_association": "Paris Metal"
+    },
+    {
+      "atomic_number": 72,
+      "symbol": "Hf",
+      "name": "Hafnium",
+      "atomic_mass": 178.49,
+      "resonant_frequency_hz": 307200000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Copenhagen Metal"
+    },
+    {
+      "atomic_number": 73,
+      "symbol": "Ta",
+      "name": "Tantalum",
+      "atomic_mass": 180.95,
+      "resonant_frequency_hz": 265000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Tantalus Metal"
+    },
+    {
+      "atomic_number": 74,
+      "symbol": "W",
+      "name": "Tungsten",
+      "atomic_mass": 183.84,
+      "resonant_frequency_hz": 255100000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Heavy Stone"
+    },
+    {
+      "atomic_number": 75,
+      "symbol": "Re",
+      "name": "Rhenium",
+      "atomic_mass": 186.21,
+      "resonant_frequency_hz": 346000000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Gemini",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Rhine Metal"
+    },
+    {
+      "atomic_number": 76,
+      "symbol": "Os",
+      "name": "Osmium",
+      "atomic_mass": 190.23,
+      "resonant_frequency_hz": 426000000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Smell Metal"
+    },
+    {
+      "atomic_number": 77,
+      "symbol": "Ir",
+      "name": "Iridium",
+      "atomic_mass": 192.22,
+      "resonant_frequency_hz": 380000000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Rainbow Metal"
+    },
+    {
+      "atomic_number": 78,
+      "symbol": "Pt",
+      "name": "Platinum",
+      "atomic_mass": 195.08,
+      "resonant_frequency_hz": 265900000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Little Silver"
+    },
+    {
+      "atomic_number": 79,
+      "symbol": "Au",
+      "name": "Gold",
+      "atomic_mass": 196.97,
+      "resonant_frequency_hz": 267900000,
+      "planetary_connection": "Sun",
+      "zodiac_sign": "Leo",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Sol"
+    },
+    {
+      "atomic_number": 80,
+      "symbol": "Hg",
+      "name": "Mercury",
+      "atomic_mass": 200.59,
+      "resonant_frequency_hz": 253700000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Gemini",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Quicksilver"
+    },
+    {
+      "atomic_number": 81,
+      "symbol": "Tl",
+      "name": "Thallium",
+      "atomic_mass": 204.38,
+      "resonant_frequency_hz": 535000000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Green Twig"
+    },
+    {
+      "atomic_number": 82,
+      "symbol": "Pb",
+      "name": "Lead",
+      "atomic_mass": 207.2,
+      "resonant_frequency_hz": 283300000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Saturn Metal"
+    },
+    {
+      "atomic_number": 83,
+      "symbol": "Bi",
+      "name": "Bismuth",
+      "atomic_mass": 208.98,
+      "resonant_frequency_hz": 306800000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "White Mass"
+    },
+    {
+      "atomic_number": 84,
+      "symbol": "Po",
+      "name": "Polonium",
+      "atomic_mass": 209,
+      "resonant_frequency_hz": 255000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Metalloid",
+      "alchemical_association": "Poland Element"
+    },
+    {
+      "atomic_number": 85,
+      "symbol": "At",
+      "name": "Astatine",
+      "atomic_mass": 210,
+      "resonant_frequency_hz": 245000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Halogen",
+      "alchemical_association": "Unstable"
+    },
+    {
+      "atomic_number": 86,
+      "symbol": "Rn",
+      "name": "Radon",
+      "atomic_mass": 222,
+      "resonant_frequency_hz": 745000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Noble Gas",
+      "alchemical_association": "Radium Emanation"
+    },
+    {
+      "atomic_number": 87,
+      "symbol": "Fr",
+      "name": "Francium",
+      "atomic_mass": 223,
+      "resonant_frequency_hz": 817000000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Alkali Metal",
+      "alchemical_association": "France Element"
+    },
+    {
+      "atomic_number": 88,
+      "symbol": "Ra",
+      "name": "Radium",
+      "atomic_mass": 226,
+      "resonant_frequency_hz": 714300000,
+      "planetary_connection": "Sun",
+      "zodiac_sign": "Leo",
+      "element_type": "Alkaline Earth Metal",
+      "alchemical_association": "Ray Element"
+    },
+    {
+      "atomic_number": 89,
+      "symbol": "Ac",
+      "name": "Actinium",
+      "atomic_mass": 227,
+      "resonant_frequency_hz": 438900000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Actinide",
+      "alchemical_association": "Ray Element"
+    },
+    {
+      "atomic_number": 90,
+      "symbol": "Th",
+      "name": "Thorium",
+      "atomic_mass": 232.04,
+      "resonant_frequency_hz": 401000000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Actinide",
+      "alchemical_association": "Thor Metal"
+    },
+    {
+      "atomic_number": 91,
+      "symbol": "Pa",
+      "name": "Protactinium",
+      "atomic_mass": 231.04,
+      "resonant_frequency_hz": 392000000,
+      "planetary_connection": "Uranus",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Actinide",
+      "alchemical_association": "Before Actinium"
+    },
+    {
+      "atomic_number": 92,
+      "symbol": "U",
+      "name": "Uranium",
+      "atomic_mass": 238.03,
+      "resonant_frequency_hz": 386000000,
+      "planetary_connection": "Uranus",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Actinide",
+      "alchemical_association": "Uranus Metal"
+    },
+    {
+      "atomic_number": 93,
+      "symbol": "Np",
+      "name": "Neptunium",
+      "atomic_mass": 237,
+      "resonant_frequency_hz": 365000000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Actinide",
+      "alchemical_association": "Neptune Metal"
+    },
+    {
+      "atomic_number": 94,
+      "symbol": "Pu",
+      "name": "Plutonium",
+      "atomic_mass": 244,
+      "resonant_frequency_hz": 385000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Actinide",
+      "alchemical_association": "Pluto Metal"
+    },
+    {
+      "atomic_number": 95,
+      "symbol": "Am",
+      "name": "Americium",
+      "atomic_mass": 243,
+      "resonant_frequency_hz": 350000000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Actinide",
+      "alchemical_association": "America Metal"
+    },
+    {
+      "atomic_number": 96,
+      "symbol": "Cm",
+      "name": "Curium",
+      "atomic_mass": 247,
+      "resonant_frequency_hz": 348000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Actinide",
+      "alchemical_association": "Curie Metal"
+    },
+    {
+      "atomic_number": 97,
+      "symbol": "Bk",
+      "name": "Berkelium",
+      "atomic_mass": 247,
+      "resonant_frequency_hz": 340000000,
+      "planetary_connection": "Uranus",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Actinide",
+      "alchemical_association": "Berkeley Metal"
+    },
+    {
+      "atomic_number": 98,
+      "symbol": "Cf",
+      "name": "Californium",
+      "atomic_mass": 251,
+      "resonant_frequency_hz": 335000000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Actinide",
+      "alchemical_association": "California Metal"
+    },
+    {
+      "atomic_number": 99,
+      "symbol": "Es",
+      "name": "Einsteinium",
+      "atomic_mass": 252,
+      "resonant_frequency_hz": 328000000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Gemini",
+      "element_type": "Actinide",
+      "alchemical_association": "Einstein Metal"
+    },
+    {
+      "atomic_number": 100,
+      "symbol": "Fm",
+      "name": "Fermium",
+      "atomic_mass": 257,
+      "resonant_frequency_hz": 320000000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Actinide",
+      "alchemical_association": "Fermi Metal"
+    },
+    {
+      "atomic_number": 101,
+      "symbol": "Md",
+      "name": "Mendelevium",
+      "atomic_mass": 258,
+      "resonant_frequency_hz": 315000000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Virgo",
+      "element_type": "Actinide",
+      "alchemical_association": "Mendeleev Metal"
+    },
+    {
+      "atomic_number": 102,
+      "symbol": "No",
+      "name": "Nobelium",
+      "atomic_mass": 259,
+      "resonant_frequency_hz": 310000000,
+      "planetary_connection": "Venus",
+      "zodiac_sign": "Libra",
+      "element_type": "Actinide",
+      "alchemical_association": "Nobel Metal"
+    },
+    {
+      "atomic_number": 103,
+      "symbol": "Lr",
+      "name": "Lawrencium",
+      "atomic_mass": 266,
+      "resonant_frequency_hz": 305000000,
+      "planetary_connection": "Jupiter",
+      "zodiac_sign": "Sagittarius",
+      "element_type": "Actinide",
+      "alchemical_association": "Lawrence Metal"
+    },
+    {
+      "atomic_number": 104,
+      "symbol": "Rf",
+      "name": "Rutherfordium",
+      "atomic_mass": 267,
+      "resonant_frequency_hz": 295000000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Rutherford Metal"
+    },
+    {
+      "atomic_number": 105,
+      "symbol": "Db",
+      "name": "Dubnium",
+      "atomic_mass": 268,
+      "resonant_frequency_hz": 290000000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Dubna Metal"
+    },
+    {
+      "atomic_number": 106,
+      "symbol": "Sg",
+      "name": "Seaborgium",
+      "atomic_mass": 269,
+      "resonant_frequency_hz": 285000000,
+      "planetary_connection": "Uranus",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Seaborg Metal"
+    },
+    {
+      "atomic_number": 107,
+      "symbol": "Bh",
+      "name": "Bohrium",
+      "atomic_mass": 270,
+      "resonant_frequency_hz": 280000000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Gemini",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Bohr Metal"
+    },
+    {
+      "atomic_number": 108,
+      "symbol": "Hs",
+      "name": "Hassium",
+      "atomic_mass": 269,
+      "resonant_frequency_hz": 275000000,
+      "planetary_connection": "Saturn",
+      "zodiac_sign": "Capricorn",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Hesse Metal"
+    },
+    {
+      "atomic_number": 109,
+      "symbol": "Mt",
+      "name": "Meitnerium",
+      "atomic_mass": 278,
+      "resonant_frequency_hz": 270000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Meitner Metal"
+    },
+    {
+      "atomic_number": 110,
+      "symbol": "Ds",
+      "name": "Darmstadtium",
+      "atomic_mass": 281,
+      "resonant_frequency_hz": 265000000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Aries",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Darmstadt Metal"
+    },
+    {
+      "atomic_number": 111,
+      "symbol": "Rg",
+      "name": "Roentgenium",
+      "atomic_mass": 282,
+      "resonant_frequency_hz": 260000000,
+      "planetary_connection": "Sun",
+      "zodiac_sign": "Leo",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Röntgen Metal"
+    },
+    {
+      "atomic_number": 112,
+      "symbol": "Cn",
+      "name": "Copernicium",
+      "atomic_mass": 285,
+      "resonant_frequency_hz": 255000000,
+      "planetary_connection": "Mercury",
+      "zodiac_sign": "Virgo",
+      "element_type": "Transition Metal",
+      "alchemical_association": "Copernicus Metal"
+    },
+    {
+      "atomic_number": 113,
+      "symbol": "Nh",
+      "name": "Nihonium",
+      "atomic_mass": 286,
+      "resonant_frequency_hz": 250000000,
+      "planetary_connection": "Sun",
+      "zodiac_sign": "Leo",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Japan Metal"
+    },
+    {
+      "atomic_number": 114,
+      "symbol": "Fl",
+      "name": "Flerovium",
+      "atomic_mass": 289,
+      "resonant_frequency_hz": 245000000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Flerov Metal"
+    },
+    {
+      "atomic_number": 115,
+      "symbol": "Mc",
+      "name": "Moscovium",
+      "atomic_mass": 290,
+      "resonant_frequency_hz": 240000000,
+      "planetary_connection": "Pluto",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Moscow Metal"
+    },
+    {
+      "atomic_number": 116,
+      "symbol": "Lv",
+      "name": "Livermorium",
+      "atomic_mass": 293,
+      "resonant_frequency_hz": 235000000,
+      "planetary_connection": "Uranus",
+      "zodiac_sign": "Aquarius",
+      "element_type": "Post-transition Metal",
+      "alchemical_association": "Livermore Metal"
+    },
+    {
+      "atomic_number": 117,
+      "symbol": "Ts",
+      "name": "Tennessine",
+      "atomic_mass": 294,
+      "resonant_frequency_hz": 230000000,
+      "planetary_connection": "Mars",
+      "zodiac_sign": "Scorpio",
+      "element_type": "Halogen",
+      "alchemical_association": "Tennessee Element"
+    },
+    {
+      "atomic_number": 118,
+      "symbol": "Og",
+      "name": "Oganesson",
+      "atomic_mass": 294,
+      "resonant_frequency_hz": 225000000,
+      "planetary_connection": "Neptune",
+      "zodiac_sign": "Pisces",
+      "element_type": "Noble Gas",
+      "alchemical_association": "Oganessian Element"
+    }
+  ],
+  "planetary_correspondences": {
+    "Sun": {
+      "zodiac_signs": ["Leo"],
+      "characteristics": "Vitality, life force, consciousness, gold",
+      "elements": ["H", "He", "S", "Cs", "Au", "Ra", "Rg", "Nh"]
+    },
+    "Moon": {
+      "zodiac_signs": ["Cancer"],
+      "characteristics": "Emotions, intuition, reflection, silver",
+      "elements": ["Li", "Na", "K", "Se", "Mo", "Ag", "Yb", "Lu"]
+    },
+    "Mercury": {
+      "zodiac_signs": ["Gemini", "Virgo"],
+      "characteristics": "Communication, intellect, quicksilver",
+      "elements": ["Be", "Al", "Zn", "Ga", "Pd", "Cd", "Dy", "Ho", "Re", "Hg", "Es", "Md", "Bh", "Cn"]
+    },
+    "Venus": {
+      "zodiac_signs": ["Taurus", "Libra"],
+      "characteristics": "Love, beauty, harmony, copper",
+      "elements": ["Mg", "P", "V", "Co", "Ni", "Cu", "Rh", "Pr", "Nd", "Er", "No"]
+    },
+    "Mars": {
+      "zodiac_signs": ["Aries", "Scorpio"],
+      "characteristics": "Energy, action, conflict, iron",
+      "elements": ["O", "F", "Cl", "Ti", "Cr", "Fe", "Br", "Rb", "Ru", "Gd", "Fr", "Fm", "Rf", "Ds", "Ts"]
+    },
+    "Jupiter": {
+      "zodiac_signs": ["Sagittarius", "Pisces"],
+      "characteristics": "Expansion, wisdom, abundance, tin",
+      "elements": ["N", "Sc", "Mn", "Y", "Zr", "In", "Sn", "Ce", "Eu", "Tb", "Ir", "Bi", "Th", "Am", "Lr"]
+    },
+    "Saturn": {
+      "zodiac_signs": ["Capricorn", "Aquarius"],
+      "characteristics": "Structure, limitation, time, lead",
+      "elements": ["B", "C", "Si", "Ca", "Ge", "Sr", "Ba", "Sm", "Tm", "Hf", "W", "Os", "Pb", "Db", "Hs"]
+    },
+    "Uranus": {
+      "zodiac_signs": ["Aquarius"],
+      "characteristics": "Innovation, revolution, sudden change",
+      "elements": ["Ne", "Kr", "Xe", "Pa", "U", "Bk", "Sg", "Lv"]
+    },
+    "Neptune": {
+      "zodiac_signs": ["Pisces"],
+      "characteristics": "Dreams, spirituality, dissolution",
+      "elements": ["Ar", "Nb", "I", "La", "Pt", "Tl", "Np", "Cf", "Fl", "Og"]
+    },
+    "Pluto": {
+      "zodiac_signs": ["Scorpio"],
+      "characteristics": "Transformation, death/rebirth, power",
+      "elements": ["As", "Tc", "Pm", "Ta", "Po", "At", "Rn", "Ac", "Pu", "Cm", "Mt", "Mc"]
+    },
+    "Gaia": {
+      "zodiac_signs": ["Taurus", "Virgo", "Capricorn"],
+      "characteristics": "Grounding, materiality, physical form (terrestrial/earthy qualities, not the planet)",
+      "elements": ["Sb", "Te"]
+    }
+  },
+  "zodiac_element_associations": {
+    "Fire": {
+      "signs": ["Aries", "Leo", "Sagittarius"],
+      "quality": "Cardinal, Fixed, Mutable",
+      "characteristics": "Energy, passion, transformation"
+    },
+    "Earth": {
+      "signs": ["Taurus", "Virgo", "Capricorn"],
+      "quality": "Fixed, Mutable, Cardinal",
+      "characteristics": "Stability, practicality, material"
+    },
+    "Air": {
+      "signs": ["Gemini", "Libra", "Aquarius"],
+      "quality": "Mutable, Cardinal, Fixed",
+      "characteristics": "Intellect, communication, movement"
+    },
+    "Water": {
+      "signs": ["Cancer", "Scorpio", "Pisces"],
+      "quality": "Cardinal, Fixed, Mutable",
+      "characteristics": "Emotion, intuition, depth"
+    }
+  }
+}
